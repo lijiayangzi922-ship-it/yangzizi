@@ -1,0 +1,25 @@
+{
+  "name": "linecloset",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node preview.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check www/app.js",
+    "android": "cap add android",
+    "ios": "cap add ios",
+    "sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/camera": "^7.0.5",
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/filesystem": "^7.1.9",
+    "@capacitor/ios": "^7.4.0",
+    "@capacitor/share": "^7.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.0"
+  }
+}

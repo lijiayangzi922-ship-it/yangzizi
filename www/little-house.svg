@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 410">
+<defs><filter id="soft"><feTurbulence type="fractalNoise" baseFrequency=".04" numOctaves="3" seed="8" result="noise"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="2.3"/></filter><pattern id="grain" width="7" height="9" patternUnits="userSpaceOnUse"><circle cx="2" cy="3" r=".6" fill="#fff" opacity=".22"/><path d="m5 6 1 1" stroke="#514e3d" opacity=".1"/></pattern></defs>
+<g filter="url(#soft)">
+<path d="M45 224C26 112 111 47 249 58 361 17 488 68 515 161 551 270 475 349 321 352 193 384 67 341 45 224Z" fill="#dde1d0"/>
+<path d="M80 299Q246 255 477 308L481 343Q252 386 66 333Z" fill="#c5cdb6"/>
+<circle cx="426" cy="81" r="29" fill="#e5bd63"/>
+<g fill="none" stroke="#b48a46" stroke-width="2" stroke-linecap="round"><path d="m424 36 1-9m37 30 8-5m-10 56 7 6m-74-56-7-7"/></g>
+<path d="M152 173Q201 141 251 92L300 100Q333 145 398 182L391 307Q275 332 158 306Z" fill="#63839a"/>
+<path d="M137 181Q211 125 246 81Q271 70 300 89 330 133 408 179L399 193Q333 165 279 107 234 151 146 195Z" fill="#3e6278"/>
+<path d="m325 112-2-48 26 2 4 68" fill="#63839a"/>
+<path d="M326 43q-23-12-3-23 21-10 36 3 8 13-15 15" fill="none" stroke="#bd9960" stroke-width="4" stroke-linecap="round"/>
+<path d="M248 309 247 243Q247 218 273 219 299 218 299 246L300 313" fill="#f4e9ce"/>
+<circle cx="286" cy="267" r="3.5" fill="#8c7c5e"/>
+<g fill="#eee1b7"><path d="m179 205 37-2 1 38-39 1Z"/><path d="m331 202 37 2-1 38-38-2Z"/></g>
+<g stroke="#63839a" stroke-width="5"><path d="m198 204-1 37m-19-19 39-1m131-18-1 38m-18-19 40 1"/></g>
+<path d="M255 318q-12 17-20 27m52-25 21 26" fill="none" stroke="#f5efdb" stroke-width="14"/>
+<g stroke="#6b7254" stroke-width="2.5" fill="none" stroke-linecap="round"><path d="M102 318q1-41 13-67m-10 33-17-13m21 1 15-7M435 324q-3-37 10-60m-7 34-16-14m21-2 15-8"/><path d="m89 271 10-1-2 9m27-14-11-2 3 9"/></g>
+<g fill="#a9b28c"><ellipse cx="88" cy="266" rx="9" ry="5" transform="rotate(35 88 266)"/><ellipse cx="124" cy="261" rx="11" ry="5" transform="rotate(-30 124 261)"/><ellipse cx="426" cy="281" rx="10" ry="6" transform="rotate(35 426 281)"/></g>
+<g fill="#e9ca87" stroke="#9e8c61" stroke-width="1.5"><circle cx="114" cy="249" r="8"/><circle cx="446" cy="262" r="8"/></g>
+<g fill="none" stroke="#6e6955" stroke-width="2.2" stroke-linecap="round"><path d="M362 316q-4-16 0-25l6 7 7-9 5 16q3 20-8 20-10 0-10-9Zm17 3q13 3 12-10"/><path d="m366 308 1 1m6-2 1 1m-5 6 3 1"/><path d="m125 330 4-5 4 5m276 15 4-6 4 5M75 143q10-11 19 0 9-12 19-2"/></g>
+<path d="M45 224C26 112 111 47 249 58 361 17 488 68 515 161 551 270 475 349 321 352 193 384 67 341 45 224Z" fill="url(#grain)"/>
+</g></svg>
